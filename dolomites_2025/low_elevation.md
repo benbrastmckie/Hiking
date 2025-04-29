@@ -152,3 +152,65 @@ information about a different area within the Lake Como/Bergamo region?
 
 :::
 
+# Four Day Trek to Lake Como
+
+Here’s a 4-day hut-to-hut trek in the Bergamo Alps (Alpi Orobie), ending at Lake Como, combining rugged alpine terrain, remote rifugi (mountain huts), and stunning views. The route is moderately demanding and suitable for well-prepared hikers familiar with mountain trekking.
+
+⸻
+
+Overview
+	•	Region: Alpi Orobie (Bergamo Alps), Lombardy, Italy
+	•	Start: Passo della Presolana
+	•	End: Colico or Varenna (Lake Como)
+	•	Duration: 4 days
+	•	Type: Hut-to-hut trekking
+	•	Best time: Late June to mid-September (when huts are open and snow is gone)
+
+⸻
+
+Day 1: Passo della Presolana to Rifugio Albani
+	•	Distance: ~8 km
+	•	Elevation gain: ~800 m
+	•	Time: 4–5 hours
+	•	Route:
+Start from Passo della Presolana (1,297 m), hike towards Rifugio Albani (1,933 m) beneath the majestic Pizzo della Presolana. The trail (CAI 315 or 320) climbs steadily through pine forests and open meadows.
+	•	Stay: Rifugio Albani – stunning views and classic mountain fare.
+
+⸻
+
+Day 2: Rifugio Albani to Rifugio Curò
+	•	Distance: ~14 km
+	•	Elevation gain/loss: +900 m / –700 m
+	•	Time: 6–7 hours
+	•	Route:
+Take trail 401 toward the Passo del Branchino, then descend slightly before climbing toward Rifugio Curò (1,915 m), located by the artificial Barbellino Lake. Optional detour to the Barbellino waterfall or Lago Naturale.
+	•	Stay: Rifugio Curò – remote hut with lake views and a peaceful setting.
+
+⸻
+
+Day 3: Rifugio Curò to Rifugio Grassi
+	•	Distance: ~18 km
+	•	Elevation gain/loss: +1000 m / –800 m
+	•	Time: 7–8 hours
+	•	Route:
+A longer day. Follow the Alta Via delle Orobie trail toward Rifugio Coca (brief stop possible) and continue through alpine meadows and ridgelines to Rifugio Grassi (1,987 m). This segment is scenic and less trafficked, offering solitude and wildlife.
+	•	Stay: Rifugio Grassi – welcoming hut with views over Valsassina and Lake Como in the distance.
+
+⸻
+
+Day 4: Rifugio Grassi to Lake Como (Piani di Bobbio to Varenna)
+	•	Distance: ~13 km
+	•	Elevation loss: ~1400 m
+	•	Time: 5–6 hours
+	•	Route:
+Descend via trail 36 toward Piani di Bobbio, then down to Barzio. From Barzio, take a short bus/taxi to Varenna on Lake Como. Alternatively, for a longer scenic descent, hike to Colico via Alpe Giumello (longer, ~8 hrs).
+	•	End: Varenna or Colico, both served by train and ferry.
+
+⸻
+
+Tips
+	•	Bring lightweight but warm clothing – nights are chilly even in summer.
+	•	Reserve huts in advance via CAI (Club Alpino Italiano) websites or hut contacts.
+	•	Bring some cash – not all huts take cards.
+	•	Use Komoot or Gaia GPS for offline maps with trail numbers.
+
