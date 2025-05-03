@@ -70,3 +70,34 @@ Alpe di Siusi, and Val di Fassa areas. Maximum elevation will stay below
 Would you like more specific information about any part of this itinerary?
 
 :::
+
+## Rifugios to Check (Likely Open by June 1)
+
+### Primary Options for the Route:
+1. **Rifugio Resciesa/Raschötz** - Typically opens mid-May
+   - Contact: +39 0471 796242, info@resciesa.com
+
+2. **Malga Zannes/Zans** - Often open by late May
+   - Contact: +39 0472 840186
+   - Note: Located in Funes Valley with reliable early opening
+
+3. **Rifugio Genova/Schlüterhütte** - Usually opens late May
+   - Contact: +39 0472 670072, info@schlueterhuette.com
+
+4. **Hotel Cir** (at Passo Gardena) - Opens by mid-May
+   - Contact: +39 0471 795165, info@hotelcir.com
+   - Note: This is a hotel but functions like a rifugio for hikers
+
+5. **Rifugio Monte Pana** - Open year-round
+   - Contact: +39 0471 795445, info@montepana.com
+
+### Additional Rifugios to Check (Alternatives):
+6. **Rifugio Fermeda** - Sometimes opens by late May
+   - Contact: +39 0471 796078, info@fermeda.it
+   - Location: Above Seceda
+
+7. **Rifugio Brogles** - Often opens by late May
+   - Contact: +39 0472 847351, info@brogleshuette.com
+   - Location: Between Seceda and Funes Valley
+
+8. **Rifugio Puez** - Occasionally opens by June 1st (check status)
