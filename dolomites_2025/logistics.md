@@ -2,39 +2,43 @@
 
 ## Timeline
 
+## Mountain Huts in the Cortina Area
+
+> Two night trek
+
 ### May 29th
 
-There are two options depending on whether we stay a night in Venice.
-
-1. **Venice**
-
-- May 29th: arrive in Venice at 12:40pm
-- Stay one night and head out early to Ortisei
-- Rent car early on the 30th (1.5hrs)
-- Drive to Ortisei in the Dolomites and park (3.5hrs)
-- Take the Funicolare Resciesa to the funicular's mountain station (~1hrs)
-- Hike 1.4km to Rifugio Resciesa (30min)
-- Arrive by the late afternoon on the 30th
-
-2. **Other**
-
-- May 29th: arrive in Venice at 12:40pm
+- Arrive in Venice at 12:40pm
 - Rent car at the airport (1.5hrs)
-- Drive towards Ortisei (~2.5hrs)
-- Stay one night somewhere along the way
-- Finish the drive to Ortisei on the 30th (~1hrs)
-- Take the Funicolare Resciesa to the funicular's mountain station (~1hrs)
-- Hike 1.4km to Rifugio Resciesa (30min)
-- Arrive by the late afternoon on the 30th
-
-## Mountain Huts in the Ortisei (Val Gardena) Area
-
-> Three night trek
-
+- Drive to Cortina d'Ampezzo (?hrs) 
+- Stay somewhere in town
 
 ### May 30th
 
-2. **Rifugio Resciesa/Raschötz Hütte** (2,200m)
+1. **Rifugio Munt de Sennes** ()
+   - [website](https://www.rifugiomuntdesennes.com/)
+   - muntdesennes@gmail.com
+   - +39 0474 869 000
+
+### May 31th
+
+1. **Rifugio Lavarella** ()
+   - [website](https://lavarella.it/)
+   - 
+   - 
+
+## Mountain Huts in the Ortisei (Val Gardena) Area
+
+> Two night trek
+
+### June 1st
+
+- Drive to Ortisei on the 30th (?hrs)
+- Take the Funicolare Resciesa to the funicular's mountain station (~1hrs)
+- Hike 1.4km to Rifugio Resciesa (30min)
+- Arrive by the late afternoon on the 30th
+
+1. **Rifugio Resciesa/Raschötz Hütte** (2,200m)
    - [website](https://www.rifugioresciesa.com/en/)
    - [x] Opens May 17
    - [x] EMAILED to book opening dates
@@ -43,23 +47,6 @@ There are two options depending on whether we stay a night in Venice.
    - Accessible via cable car from Ortisei
    - info@rifugioresciesa.com
    - (+39) 328 334 5986
-
-### June 1st
-
-1. **Gästehaus Zanseralm** (alternative)
-   - [website](http://www.zanseralm.it/)
-   - [x] Open end of May
-   - [x] EMAILED to book opening dates
-   - [ ] CONFIRMED booking
-   - [ ] Made DEPOSIT
-   - info@zanseralm.it
-
-2. **Schlüterhütte** (2306m)
-   - [website](https://www.schlueterhuette.com/en)
-   - [x] CLOSED TILL MID JUNE
-   - Historic building
-   - +39 0472 670072
-   - info@schlueterhuette.com
 
 ### June 2st
 
@@ -73,4 +60,11 @@ There are two options depending on whether we stay a night in Venice.
    - 0471/1390077 or 0471/796307
    - info@rifugiofirenze.com
 
+2. **Gästehaus Zanseralm** (alternative)
+   - [website](http://www.zanseralm.it/)
+   - [x] Open end of May
+   - [x] EMAILED to book opening dates
+   - [ ] CONFIRMED booking
+   - [ ] Made DEPOSIT
+   - info@zanseralm.it
 
