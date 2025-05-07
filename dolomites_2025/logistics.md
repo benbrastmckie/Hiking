@@ -20,32 +20,37 @@
 ### May 30th
 
 2. **Rifugio Resciesa/Raschötz Hütte** (2,200m)
-   - Opens May 17
+    Opens May 17
    - [website](https://www.rifugioresciesa.com/en/)
    - EMAILED to book opening dates
+     - Need to make DEPOSIT
    - Accessible via cable car from Ortisei
    - info@rifugioresciesa.com
    - (+39) 328 334 5986
 
 ### June 1st
 
- **Schlüterhütte** (2306m)
-   - [website](https://www.schlueterhuette.com/en)
+1. **Gästehaus Zanseralm** (alternative)
+   - Open end of May
    - EMAILED to book opening dates
+   - [website](http://www.zanseralm.it/)
+   - info@zanseralm.it
+
+2. **Schlüterhütte** (2306m)
+   - CLOSED TILL MID JUNE
    - Historic building
    - +39 0472 670072
    - info@schlueterhuette.com
-
-2. **Gästehaus Zanseralm** (alternative)
-   - Open end of May (email to book)
-   - [website](http://www.zanseralm.it/)
-   - info@zanseralm.it
+   - [website](https://www.schlueterhuette.com/en)
 
 ### June 2st
 
 1. **Rifugio Firenze/Regensburger Hütte** (2,037m)
-   - [website](https://www.rifugiofirenze.com/en/)
-   - BOOKED
    - Open June 1st
+   - BOOKED online
+   - EMAILED to confirm
+   - [website](https://www.rifugiofirenze.com/en/)
+   - 0471/1390077 or 0471/796307
+   - info@rifugiofirenze.com
 
 
