@@ -22,10 +22,10 @@
 
 ### May 31th
 
-1. **Rifugio Lavarella** ()
-   - [website](https://lavarella.it/)
-   - 
-   - 
+1. **Pederü Berggasthaus** ()
+   - [website](https://www.pederue.it/en#Y7D0a11V)
+   - info@pederue.it
+   - +390474834316
 
 ## Mountain Huts in the Ortisei (Val Gardena) Area
 
