@@ -18,7 +18,7 @@
 - Hike 1.4km to Rifugio Resciesa (30min)
 - Arrive by the late afternoon on the 30th
 
-1. **Rifugio Resciesa/Raschötz Hütte** (BOOKED 31st)
+1. **Rifugio Resciesa/Raschötz Hütte** (BOOKED)
    - [website](https://www.rifugioresciesa.com/en/)
    - [x] OPENS May 17
    - [x] EMAILED to fix booking
