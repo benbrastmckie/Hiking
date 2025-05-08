@@ -17,6 +17,10 @@
 
 1. **Rifugio Munt de Sennes** ()
    - [website](https://www.rifugiomuntdesennes.com/)
+   - [ ] OPENS ?
+   - [x] EMAILED to book opening dates
+   - [ ] CONFIRMED booking
+   - [ ] DEPOSIT made
    - muntdesennes@gmail.com
    - +39 0474 869 000
 
@@ -24,6 +28,10 @@
 
 1. **Pederü Berggasthaus** ()
    - [website](https://www.pederue.it/en#Y7D0a11V)
+   - [ ] OPENS ?
+   - [x] EMAILED to book opening dates
+   - [ ] CONFIRMED booking
+   - [ ] DEPOSIT made
    - info@pederue.it
    - +390474834316
 
@@ -40,10 +48,10 @@
 
 1. **Rifugio Resciesa/Raschötz Hütte** (2,200m)
    - [website](https://www.rifugioresciesa.com/en/)
-   - [x] Opens May 17
+   - [x] OPENS May 17
    - [x] EMAILED to book opening dates
    - [ ] CONFIRMED booking
-   - [ ] Made DEPOSIT
+   - [ ] DEPOSIT made
    - Accessible via cable car from Ortisei
    - info@rifugioresciesa.com
    - (+39) 328 334 5986
