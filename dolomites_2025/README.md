@@ -2,6 +2,7 @@
 
 > Essential documents
 
+- [Flip Logistics](flip_logistics.md)
 - [Logistics](logistics.md)
 - [Gear List](gear.md)
 - [Food List](food.md)
